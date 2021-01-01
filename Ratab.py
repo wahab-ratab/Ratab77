@@ -634,8 +634,8 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;97m----------------❤️ WAHAB RATAB SHEHENSHAH ❤️-------------------"
-	print "  \033[1;93m-------Creadit to me [Qaiser]--------" #Dev:qaiser
-	print '\033[1;94mProcess Has Been Completed Press->Ctrl+Z[<-πNext Type (python2 Rocky.py)↩\033[1;97m....'
+	print "  \033[1;93m-------Creadit to me [Ratab]--------" # SHEHENSHAH
+	print '\033[1;94mProcess Has Been Completed Press->Ctrl+Z[<-πNext Type (python2 Ratab.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;95m"+str(len(cekpoint))
 	print """
  
@@ -649,10 +649,10 @@ def pilih_super():
          Checkpoint ID Open After 7 Days(1 Week)
 
 \033[1;91m----
-\033[1;92m ....Thanksme By Subscribing my channel Tech Qaiser..(9 Subs Done ).... \033[1;95m :
+\033[1;92m ....Thanksme By Subscribing my channel Wahab Ratab(21 Subs Done ).... \033[1;95m :
 \033[1;93m----'
                 Contact me on Facebook
-              \033[1;91m Qaiser Abbas"""
+                  Wahab Ratab """
 	
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
